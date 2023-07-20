@@ -1,0 +1,43 @@
+﻿<Window x:Class="File_Explorer_Clone.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:File_Explorer_Clone"
+        mc:Ignorable="d"
+        Title="File Explorer Clone" Height="500" Width="900" MinHeight="500" MinWidth="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Rectangle Fill="White" Height="30" VerticalAlignment="Top"/>
+            <ComboBox Name="localDrives" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5,5,0,0" Width="60" Height="20" SelectionChanged="localDrives_SelectionChanged" />
+            
+            <TextBox Name="locationTXT" VerticalAlignment="Top" Height="20" Margin="70,5,35,0"/>
+            <Button Name="ChangeDirectory" Content="⬅" FontSize="20"
+                    Width="25" Height="30" 
+                    HorizontalAlignment="Right" 
+                    VerticalAlignment="Center"
+                    Background="Transparent"
+                    BorderBrush="White"
+                    Click="ChangeDirectory_Click"
+                    Margin="0,0,5,3"/>
+        </Grid>
+
+        <ScrollViewer Grid.Row="1" Grid.Column="1">
+            <StackPanel Orientation="Vertical" Name="AllObjects">
+                <!--<Image x:Name="imagess" Width="25" Height="25"/>-->
+                <!--<StackPanel Orientation="Horizontal" Name="Folders">
+                    <Image Margin="5,5,0,0" Source="C:\Users\Marko29\Downloads\icon.jpg" Width="50" Height="50" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <Label Margin="5,0,0,0" Content="C:/asdasd/adads/adas/asdsads/dssdad" FontSize="15" HorizontalAlignment="Center" VerticalAlignment="Center" MouseDoubleClick="Label_MouseDoubleClick"/>
+                </StackPanel>-->
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

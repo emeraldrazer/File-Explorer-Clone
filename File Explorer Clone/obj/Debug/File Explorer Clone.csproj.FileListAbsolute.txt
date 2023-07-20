@@ -1,0 +1,16 @@
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\bin\Debug\File Explorer Clone.exe.config
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\bin\Debug\File Explorer Clone.exe
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\bin\Debug\File Explorer Clone.pdb
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\MainWindow.g.cs
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\App.g.cs
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone_MarkupCompile.cache
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone_MarkupCompile.lref
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\MainWindow.baml
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.g.resources
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File_Explorer_Clone.Properties.Resources.resources
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.csproj.GenerateResource.cache
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.exe
+C:\Users\Marko29\source\repos\File Explorer Clone\File Explorer Clone\obj\Debug\File Explorer Clone.pdb
